@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-void main()
+void example3_9()
 {
 	int total = 0;
 	for (int i = 1; i <= 5; i+=2) {
